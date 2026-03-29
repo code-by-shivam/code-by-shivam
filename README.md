@@ -1,40 +1,35 @@
-# Hi, I'm Shivam 👋
+# Hey there 👋
 
-### Full Stack Developer | DSA (Java)
+I'm **Shivam**, a Full Stack Developer and B.Tech IT student.
 
-I’m a B.Tech IT student passionate about building scalable web applications and solving real-world problems through code.
+I build web applications and try to solve real-world problems using code.  
+I focus on writing clean, efficient, and scalable solutions.
 
----
+My main tech stack includes **React, Django, and REST APIs**.  
+I also have a strong focus on **Data Structures & Algorithms (Java)** and regularly practice DSA.
 
-## 🚀 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
-- **Backend:** Django, Django REST Framework  
-- **Languages:** Java, Python, JavaScript  
-- **Core Skills:** Data Structures & Algorithms, REST APIs  
 
----
+## Skills
 
-## 📌 About Me
+- React, Tailwind CSS  
+- Django, REST APIs  
+- Java (DSA), Python, JavaScript  
+
+
+## About Me
 
 - 🎓 B.Tech IT (3rd Year)  
-- 💻 Strong foundation in DSA using Java  
-- 🌱 Currently exploring system design & advanced backend development  
-- 🚀 Focused on building efficient and scalable solutions  
+- 💻 Passionate about full stack development  
+- 🧠 Regularly practice Data Structures & Algorithms  
+- 🚀 Focused on building real-world projects  
 
----
 
-## 📈 GitHub Stats
+## Contact
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+- 📧 Email: your.email@example.com  
+- 📱 Phone: +91-XXXXXXXXXX  
 
----
 
-## 🤝 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- GitHub: https://github.com/yourusername  
-
----
-
-✨ *Always learning, building, and improving.*
+*Always learning, building, and improving.*
