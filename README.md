@@ -10,14 +10,14 @@ I also have a strong focus on **Data Structures & Algorithms (Java)** and regula
 
 
 
-## Skills
+### Skills
 
 - React, Tailwind CSS  
 - Django, REST APIs  
 - Java (DSA), Python, JavaScript  
 
 
-## About Me
+### About Me
 
 - 🎓 B.Tech IT (3rd Year)  
 - 💻 Passionate about full stack development  
@@ -25,10 +25,11 @@ I also have a strong focus on **Data Structures & Algorithms (Java)** and regula
 - 🚀 Focused on building real-world projects  
 
 
-## Contact
+### Contact
 
-- 📧 Email: your.email@example.com  
-- 📱 Phone: +91-XXXXXXXXXX  
+- 📧 Email: shivam825825@gmail.com  
+- 📱 Phone: +91-7307531013
+  
 
 
 
