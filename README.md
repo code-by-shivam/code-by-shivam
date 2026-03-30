@@ -19,7 +19,7 @@ I also have a strong focus on **Data Structures & Algorithms (Java)** and regula
 
 ### About Me
 
-- 🎓 B.Tech IT (3rd Year)  
+- 🎓 B.Tech IT (2023-27)  
 - 💻 Passionate about full stack development  
 - 🧠 Regularly practice Data Structures & Algorithms  
 - 🚀 Focused on building real-world projects  
