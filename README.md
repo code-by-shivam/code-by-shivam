@@ -14,7 +14,8 @@ I also have a strong focus on **Data Structures & Algorithms (Java)** and regula
 
 - React, Tailwind CSS  
 - Django, REST APIs  
-- Java (DSA), Python, JavaScript  
+- Java (DSA), Python, JavaScript
+- Databases 
 
 
 ### About Me
