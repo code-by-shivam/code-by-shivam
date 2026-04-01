@@ -8,7 +8,6 @@ I focus on writing clean, efficient, and scalable solutions.
 My main tech stack includes **React, Django, and REST APIs**.  
 I also have a strong focus on **Data Structures & Algorithms (Java)** and regularly practice DSA.
 
----
 
 ### Skills
 
@@ -16,7 +15,6 @@ I also have a strong focus on **Data Structures & Algorithms (Java)** and regula
 - Django, REST APIs  
 - Java (DSA), Python, JavaScript  
 
----
 
 ### About Me
 
@@ -25,13 +23,11 @@ I also have a strong focus on **Data Structures & Algorithms (Java)** and regula
 - 🧠 Regularly practice Data Structures & Algorithms  
 - 🚀 Focused on building real-world projects  
 
----
 
 ### Contact
 
 - 📧 Email: shivam825825@gmail.com  
 - 📱 Phone: +91-7307531013 
 
----
 
 *Always learning, building, and improving.*
